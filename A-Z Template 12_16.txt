@@ -4,6 +4,12 @@ A-Z Template (12/16)
 
 <body class="s-lib-public-body">
 		{{skip_link}}
+		        <!-- BEGIN: Page Header -->
+           <div id="s-lib-banner" class="container s-lib-banner-public">
+                <a href="https://www.colorado.edu/libraries/" title="" target="" aria-hidden="true" tabindex="-1" >
+                    <img alt="Banner Image" name="s-lib-banner-img" id="s-lib-banner-img" class="img-responsive" src="http://libapps.s3.amazonaws.com/sites/5527/banner/CU-UniversityLibraries.png" aria-hidden="true" tabindex="-1" />
+                </a>
+        <!-- END: Page Header -->
 
 <!-- BEGIN: Nav Bar -->
 <div id="mainfontmenu">
