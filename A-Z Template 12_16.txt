@@ -5,6 +5,13 @@ A-Z Template (12/16)
 <body class="s-lib-public-body">
 		{{skip_link}}
 		        <!-- BEGIN: Page Header -->
+			<style>
+/* hide guide list account and view information */
+
+span.s-lg-guide-info-account { display: none; }
+span.s-lg-guide-info-views { display: none; }
+span.s-lg-guide-info-updated { display: none; }
+</style>
            <div id="s-lib-banner" class="container s-lib-banner-public">
                 <a href="https://www.colorado.edu/libraries/" title="" target="" aria-hidden="true" tabindex="-1" >
                     <img alt="Banner Image" name="s-lib-banner-img" id="s-lib-banner-img" class="img-responsive" src="http://libapps.s3.amazonaws.com/sites/5527/banner/CU-UniversityLibraries.png" aria-hidden="true" tabindex="-1" />
