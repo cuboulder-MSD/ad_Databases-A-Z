@@ -211,6 +211,7 @@ color: #ffffff; }
 .btn-info:a {border-color: #CFB87C;} 
 .btn-info:a {color: #000000;} 
 
+#s-lg-az-reset {background-color: #CFB87C}
   
 .s-lg-az-result-description, .s-lg-az-result-moreinfo, .s-lg-az-result-moreinfo-link {
 font-size: 1.15em;
