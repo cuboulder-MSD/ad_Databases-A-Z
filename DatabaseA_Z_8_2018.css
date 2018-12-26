@@ -1,0 +1,92 @@
+.libnavigation-wrapper{
+      background-color:#272727;
+   border-bottom:5px solid #cfb87c;
+
+}
+
+#libmain-menu-wrapper{
+    background-color:#272727;
+}
+#libmain-menu-wrapper ul#main-menu a{
+    font-weight:600;
+    color:#fff;
+}
+#libmain-menu-wrapper ul#main-menu a:hover{
+    background-color:#444;
+}
+#libmain-menu-wrapper ul#main-menu a.active,#libmain-menu-wrapper ul#main-menu a.active-trail{
+    background-color:#cfb87c;
+    color:#000;
+}
+#libmain-menu-wrapper ul#main-menu a.home-link,#libmain-menu-wrapper ul#main-menu a.home-link.active{
+    background-color:transparent;
+    color:#fff;
+}
+
+#libnavigation ul.action-menu{
+    float:right;
+    margin:0 0 0 20px;
+    font-size:85%;
+}
+
+#libnavigation ul.action-menu a{
+    line-height:24px;
+    margin:8px 5px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    padding:0 5px;
+    border:none;
+    white-space:nowrap;
+    font-family:Arial,Helvetica,sans-serif;
+}
+
+
+
+#libnavigation .links li,#navigation .menu li{
+    margin:0;
+    padding:0;
+}
+#libnavigation .links a,#navigation .menu a{
+    display:inline-block;
+    padding:0 12px;
+    line-height:40px;
+}
+.action-gold ul#action-menu a{
+    background-color:#cfb87c;
+    color:#000;
+    transition:-webkit-box-shadow 0.5s ease,background-color 0.5s ease,color 0.5s ease;
+    transition:-moz-box-shadow 0.5s ease,background-color 0.5s ease,color 0.5s ease;
+    transition:box-shadow 0.5s ease,background-color 0.5s ease,color 0.5s ease;
+    -webkit-box-shadow:0 0px 3px rgba(0,0,0,0.24);
+    -moz-box-shadow:0 0px 3px rgba(0,0,0,0.24);
+    box-shadow:0 0px 3px rgba(0,0,0,0.24);
+}
+.action-gold ul#action-menu a:hover,.action-gold ul#action-menu a:focus{
+    background-color:#d3be87;
+    -webkit-box-shadow:0 2px 5px rgba(0,0,0,0.3);
+    -moz-box-shadow:0 2px 5px rgba(0,0,0,0.3);
+    box-shadow:0 2px 5px rgba(0,0,0,0.3);
+    color:#000;
+}
+.action-gold ul#action-menu a:active{
+    -webkit-box-shadow:0 3px 15px rgba(0,0,0,0.35);
+    -moz-box-shadow:0 3px 15px rgba(0,0,0,0.35);
+    box-shadow:0 3px 15px rgba(0,0,0,0.35);
+}
+
+#mainfontmenu {
+    font-size:17px;
+    line-height:1.5;
+    font-family:"Neue Helvetica W01","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:#202020;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    font-smoothing:antialiased;
+    text-rendering:optimizeLegibility;
+    font-style:normal;
+    font-variant:normal;
+    -webkit-text-size-adjust:none;
+}
+
+.fa-home{content:"\f015"}
