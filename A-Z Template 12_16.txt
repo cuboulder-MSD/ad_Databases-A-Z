@@ -64,8 +64,7 @@ A-Z Template (12/16)
 			<div id="col2" class="col-md-4 center">
 {{content_box_10520796}}
 	 
-{{content_box_6973728}}
-{{trials_box}}
+
 					</div>
 				</div>
 			</section>
