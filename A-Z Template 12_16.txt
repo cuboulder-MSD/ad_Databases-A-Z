@@ -62,6 +62,7 @@ A-Z Template (12/16)
 						</div>
 					</div>
 			<div id="col2" class="col-md-4 center">
+{{content_box_guides}}
 {{content_box_10520796}}
 	 
 
