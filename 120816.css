@@ -277,5 +277,5 @@ color: #000000;
 
 #s-lg-guide-description   {display:none;}
 #s-lg-index-list-header  {display:none;}
-#s-lg-az-result-count{display:none;}
+#s-lg-az-result-count{padding-left: 0;}
 #s-lg-profile-subject-btn {display: none;}
