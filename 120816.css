@@ -276,10 +276,11 @@ color: #000000;
 
 
 /*hides types and vendor filters on AZ page*/
-#col-types, #col-vendors {display: none;}
+#col-vendors {display: none;}
 /*increases width of subject and search box on AZ page*/
-#col-search {width: 50%}
-#col-subjects {width: 50%}
+#col-search {width: 30%}
+#col-subjects {width: 30%}
+#col-types {width: 30%}
 .s-lg-az-result-trial-description  {display: none;}
 
 #s-lg-guide-description   {display:none;}
