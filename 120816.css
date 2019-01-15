@@ -10,10 +10,15 @@
 
 /*link colors*/
 a:link {
-    color: #007bc8;
+    color: #0645AD;
 }
-a:hover {
-    color: #e51c23;
+a:visited
+{
+    color: #0645AD;
+}
+a:hover
+ {
+    color: #0645AD;
 }
  
  /*gold border*/
@@ -61,7 +66,7 @@ a:hover {
 /*change database font size*/
 .s-lib-box-content li a {font-size: 14px; }
 /*in box tabs*/
-.ui-tabs-nav li a {font-size: 12px; }
+.ui-tabs-nav li a {font-size: 14px; }
  
 /* box content*/
  .s-lib-box-content {
@@ -71,7 +76,7 @@ a:hover {
   margin-top: 0;
   font-size: 13px;
   font-family: Arial, Helvetica, sans-serif;
- background-color: rgba(0, 0, 0, 0.03);
+ background-color: rgba(0, 0, 0, 0);
 }
 
 .s-lib-box-content h1 { font-weight: 700;
@@ -106,7 +111,7 @@ a:hover {
  }
 
 .s-lg-link-list {
-  font-size: 13px;  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;  font-family: Arial, Helvetica, sans-serif;
   margin-top: 5px;
   margin-bottom: 5px;
 
@@ -212,6 +217,7 @@ color: #ffffff; }
 .btn-info:a {color: #000000;} 
 
 #s-lg-az-reset {background-color: #CFB87C}
+
   
 .s-lg-az-result-description, .s-lg-az-result-moreinfo, .s-lg-az-result-moreinfo-link {
 font-size: 1.15em;
