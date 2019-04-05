@@ -89,4 +89,12 @@
     -webkit-text-size-adjust:none;
 }
 
+#s-lg-az-results #s-lg-db-name-featured, .s-lg-db-name-featured{
+    margin-bottom: 25px;
+    background-color: #ffffff; 
+    border-radius: 1px; 
+    padding: 1px; 
+    border: 1px solid #ffffff; 
+}
+
 .fa-home{content:"\f015"}
