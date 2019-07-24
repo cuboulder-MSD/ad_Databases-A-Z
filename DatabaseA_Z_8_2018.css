@@ -98,3 +98,34 @@
 }
 
 .fa-home{content:"\f015"}
+
+/* Updates 7/23/2019 new website header - Nicole*/
+
+
+#header-wrapper {
+    background-color: #000;
+}
+header.ucb .site-name, header.ucb h1.site-name {
+    font-size: 20px;
+    font-weight: 750;
+    font-family: "Neue Helvetica W05","Roboto Condensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+
+.site-name {
+    padding: 20px;
+    margin: auto;
+}
+
+h1.site-name a:link, h1.site-name a:visited, h1.site-name a:hover {
+    color: #fff;
+	    text-decoration: none !important;
+}
+
+#s-lib-banner-img {
+	float: left;
+}
+
+#s-lib-banner-margins {
+	padding: 10px;
+}
