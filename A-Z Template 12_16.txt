@@ -13,9 +13,24 @@ span.s-lg-guide-info-views { display: none; }
 span.s-lg-guide-info-updated { display: none; }
 </style>
            <div id="s-lib-banner" class="container s-lib-banner-public">
-                <a href="https://www.colorado.edu/libraries/" title="" target="" aria-hidden="true" tabindex="-1" >
-                    <img alt="Banner Image" name="s-lib-banner-img" id="s-lib-banner-img" class="img-responsive" src="http://libapps.s3.amazonaws.com/sites/5527/banner/CU-UniversityLibraries.png" aria-hidden="true" tabindex="-1" />
+                <div id="s-lib-banner-margins">
+		   <p></p>
+                <a href="https://www.colorado.edu/libraries/" title="" target="" aria-hidden="true">
+                    <img alt="Banner Image" src="https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svg" aria-hidden="true" width="240px" height="22px">
                 </a>
+				</div>
+
+	<div id="header-wrapper">
+     <div class="site-name-wrapper">
+
+            
+      <h1 class="site-name">
+      <a href="https://www.colorado.edu/libraries/" title="Home" class="header__site-link" rel="home"><span>University Libraries </span></a>
+    </h1>
+          </div>
+
+
+      </div>
         <!-- END: Page Header -->
 
 <!-- BEGIN: Nav Bar -->
