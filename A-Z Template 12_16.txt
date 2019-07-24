@@ -15,7 +15,7 @@ span.s-lg-guide-info-updated { display: none; }
            <div id="s-lib-banner" class="container s-lib-banner-public">
                 <div id="s-lib-banner-margins">
 		   <p></p>
-                <a href="https://www.colorado.edu/libraries/" title="" target="" aria-hidden="true">
+                <a href="https://www.colorado.edu" title="" target="" aria-hidden="true">
                     <img alt="Banner Image" src="https://www.colorado.edu/libraries/profiles/express/themes/ucb/images/cu-boulder-logo-text-black.svg" aria-hidden="true" width="240px" height="22px">
                 </a>
 				</div>
