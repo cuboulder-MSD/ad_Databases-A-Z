@@ -12,7 +12,7 @@
 <li>Go to Admin/Look & Feel</li>
 <li>Click on the customize JS/CSS Tab</li>
   <li>The Custom JS/CSS Code box is what loads into every LibGuides page. It will show you the names of the currently used files.</li>
-  <li>Record changes on <a href="https://conifer.rhizome.org/cuboulder_libera">conifer.org</a></li>
+  <li>Record changes on the <a href="https://docs.google.com/document/d/1tUjRhy6rih3uO4LhuL2o63uUrEuG4FqG8lBeOzNHqBw/edit#">change log</a> and  <a href="https://conifer.rhizome.org/cuboulder_libera">conifer.org</a></li>
   </ol>
 <p>To change either of the css files:</p>
   <ol>
